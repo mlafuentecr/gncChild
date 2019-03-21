@@ -210,7 +210,7 @@ function themename_custom_logo_setup() {
 
 function my_acf_google_map_api( $api ){
 	
-	$api['key'] = 'AIzaSyCj-b02x9yJD2BTFf6jEEgNWRHuwC5Jcl0';
+	$api['key'] = 'later';
 	
 	return $api;
 	
