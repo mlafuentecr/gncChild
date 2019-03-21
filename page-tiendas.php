@@ -79,7 +79,7 @@ $count_posts = wp_count_posts( 'nuestras_tiendas' )->publish;
 }
 
 </style>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGTyuuKs2yLJvr3B7xsgua_nDF-ThTKSs"></script>
+
 <script type="text/javascript">
 (function($) {
 
